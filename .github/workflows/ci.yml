@@ -41,6 +41,8 @@ jobs:
 
     - name: Simulated Deploy
       if: success()
-      run: echo " Deploy automático simulado: código validado y listo para producción"
+      run: |
+        echo " Deploy automático simulado: código validado y listo para producción"
+
 
 
