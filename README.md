@@ -1,0 +1,2 @@
+![CI](https://github.com/fbarquez/BMI/actions/workflows/ci.yml/badge.svg)
+
